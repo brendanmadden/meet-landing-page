@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Users/brendanmadden/Documents/frontend mentor/meet-landing-page-challenge/meet-landing-page/src/assets/mine.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://brendanmadden.github.io/meet-landing-page/)
 
 ## My process
 
@@ -50,6 +50,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- GitHub - [Brendan Madden](https://github.com/brendanmadden)
+- Frontend Mentor - [@brendanmadden](https://www.frontendmentor.io/profile/brendanmadden)
+- Twitter - [@BrendanMadden_](https://www.twitter.com/BrendanMadden_)
