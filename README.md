@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/meet-landing-page-JmNLeQT4W)
 - Live Site URL: [GitHub Pages](https://brendanmadden.github.io/meet-landing-page/)
 
 ## My process
@@ -42,11 +42,11 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+This challenge tested me on a few different levels. Although the current product isn't pixel perfect, I'm proud that I was able to plan and code this project in about 7 hours, in one day. I continued to learn flexbox and setting up a layout in CSS. I also continued to learn and practice responsive desgin and media queries. 
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I have a number of area's I would like to continue to develop and improve in. The most important area's for improvement I would like to focus on are my responsive design, accessibility, and layout capabilities. I need to get better with media queries and ensuring the product works on every device, at every screen size. 
 
 ## Author
 
