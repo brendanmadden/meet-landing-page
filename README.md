@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Users/brendanmadden/Documents/frontend mentor/meet-landing-page-challenge/meet-landing-page/src/assets/mine.png)
+![](./src/assets/mine.png)
 
 ### Links
 
