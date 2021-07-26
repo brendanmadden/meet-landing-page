@@ -317,7 +317,7 @@
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 975px) {
 
     .container {
         display: flex;
@@ -382,8 +382,11 @@
     } 
     
     .mobile-images{
-        display: block;
+        display: flex;
         margin-top: -150px;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        width: 80%;
     }
 
     .mobile-images img {
@@ -448,6 +451,37 @@
     }
 }
 
+@media screen and (max-width: 600px) {
+    .top {
+        margin-bottom: 15px;
+        margin-top: 75px;
+    }
+
+    .main-content h2 {
+        padding: 0;
+        margin: 10px 0;
+    }
+
+    .footer {
+        margin-bottom: 0;
+    }
+
+    .mobile-images {
+        margin-top: -200px;
+    }
+
+    .hero-content h1 {
+        padding: 0;
+    }
+
+    .hero-content p {
+        padding: 0;
+    }
+
+    .second-number {
+        margin-top: 60px;
+    }
+}
 
 @media screen and (max-width: 375px) {
     .container {
